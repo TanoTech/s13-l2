@@ -1,0 +1,15 @@
+/Users/gaetano/Desktop/Visual Studio/s13-ll2/s13-ll2/bin/Debug/net7.0/s13-ll2
+/Users/gaetano/Desktop/Visual Studio/s13-ll2/s13-ll2/bin/Debug/net7.0/s13-ll2.deps.json
+/Users/gaetano/Desktop/Visual Studio/s13-ll2/s13-ll2/bin/Debug/net7.0/s13-ll2.runtimeconfig.json
+/Users/gaetano/Desktop/Visual Studio/s13-ll2/s13-ll2/bin/Debug/net7.0/s13-ll2.dll
+/Users/gaetano/Desktop/Visual Studio/s13-ll2/s13-ll2/bin/Debug/net7.0/s13-ll2.pdb
+/Users/gaetano/Desktop/Visual Studio/s13-ll2/s13-ll2/obj/Debug/net7.0/s13-ll2.csproj.AssemblyReference.cache
+/Users/gaetano/Desktop/Visual Studio/s13-ll2/s13-ll2/obj/Debug/net7.0/s13-ll2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gaetano/Desktop/Visual Studio/s13-ll2/s13-ll2/obj/Debug/net7.0/s13-ll2.AssemblyInfoInputs.cache
+/Users/gaetano/Desktop/Visual Studio/s13-ll2/s13-ll2/obj/Debug/net7.0/s13-ll2.AssemblyInfo.cs
+/Users/gaetano/Desktop/Visual Studio/s13-ll2/s13-ll2/obj/Debug/net7.0/s13-ll2.csproj.CoreCompileInputs.cache
+/Users/gaetano/Desktop/Visual Studio/s13-ll2/s13-ll2/obj/Debug/net7.0/s13-ll2.dll
+/Users/gaetano/Desktop/Visual Studio/s13-ll2/s13-ll2/obj/Debug/net7.0/refint/s13-ll2.dll
+/Users/gaetano/Desktop/Visual Studio/s13-ll2/s13-ll2/obj/Debug/net7.0/s13-ll2.pdb
+/Users/gaetano/Desktop/Visual Studio/s13-ll2/s13-ll2/obj/Debug/net7.0/s13-ll2.genruntimeconfig.cache
+/Users/gaetano/Desktop/Visual Studio/s13-ll2/s13-ll2/obj/Debug/net7.0/ref/s13-ll2.dll
